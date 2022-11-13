@@ -1,3 +1,8 @@
-# pandas_challenge
-hello
-hiii
+pandas challenge
+dataframes
+dataframefunctions
+grouping
+dsorting
+merging
+mapping
+
